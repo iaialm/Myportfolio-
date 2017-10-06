@@ -1,0 +1,44 @@
+.navbar {
+  	margin-bottom: 0;
+  	border: none;
+}
+
+.navbar-brand .glyphicon {
+ 	margin-right: 6px;
+	width: 50px;
+}
+
+.container{
+	text-align: center;
+}
+
+.modal-footer{
+	text-align: center;
+	text-decoration-color: aliceblue;
+}
+
+.logo img {
+	padding-top: 30px;
+	padding-left: 20px;
+    max-width: 15%;
+	display: block;
+}
+
+.jumbotron.bg {
+    background: url(../../assets/img/h.jpg) no-repeat center;
+    background-size: cover;
+	background-position: right;
+    border: ridge;
+}
+
+.details{
+	text-align: right;
+	padding: 25px;	
+}
+
+.bg-logo {
+  	background-color: #fff;
+}
+
+
+
